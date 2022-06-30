@@ -1,3 +1,5 @@
+#define PI 3.1415926538
+
 float bpm(float bpm, float q, float intensity){
     // Adaptacion de funcion creada por Char Stiles
     // La idea es generar una funcion que sirva como especie de metronomo.
